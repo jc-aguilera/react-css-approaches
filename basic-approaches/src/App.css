@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container .row {
+  max-width: 48rem;
+}
+
+.header {
+  color: #A3C962;
+  text-align: center;
+}
+.paragraph {
+  line-height: 1.35em;
+  text-align: justify;
+}
